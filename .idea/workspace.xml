@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea60be9-6ef8-4415-bc44-1ad32618805d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZlP6cFyc9MkrPHnPuEndNiDAI4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\research" />
+      <recent name="C:\xampp\htdocs\research\images" />
+      <recent name="C:\xampp\htdocs\research\css2" />
+      <recent name="C:\xampp\htdocs\research" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\research\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea60be9-6ef8-4415-bc44-1ad32618805d" name="Default Changelist" comment="" />
+      <created>1585410533567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585410533567</updated>
+      <workItem from="1585410540397" duration="3792000" />
+      <workItem from="1585465201863" duration="1823000" />
+      <workItem from="1585501991991" duration="7844000" />
+      <workItem from="1585553077058" duration="14165000" />
+      <workItem from="1585573879408" duration="11387000" />
+      <workItem from="1585805119739" duration="860000" />
+      <workItem from="1585807242839" duration="4132000" />
+      <workItem from="1585894333029" duration="299000" />
+      <workItem from="1586240526055" duration="1181000" />
+      <workItem from="1586243906007" duration="1171000" />
+      <workItem from="1586798590251" duration="221000" />
+      <workItem from="1586803235447" duration="1602000" />
+      <workItem from="1587028905911" duration="233000" />
+      <workItem from="1587030274903" duration="942000" />
+      <workItem from="1587315450945" duration="2175000" />
+      <workItem from="1587356691733" duration="5447000" />
+      <workItem from="1587391360373" duration="3690000" />
+      <workItem from="1587450297048" duration="8479000" />
+      <workItem from="1587468982235" duration="3798000" />
+      <workItem from="1588002476289" duration="1979000" />
+      <workItem from="1588450597683" duration="708000" />
+      <workItem from="1588498005990" duration="4780000" />
+      <workItem from="1588516489856" duration="11431000" />
+      <workItem from="1597694021238" duration="177000" />
+      <workItem from="1597694241729" duration="771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
